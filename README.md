@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a software developer in Grand Rapids, MI, I've been programming since 2001 when I was in high school and professionally since 2009. I first started with web design, then moved into web development and now I've moved into the mobile development space.
+
+- 🔭 I’m currently working on a mobile app project to expand my knowledge
+- 🌱 I’m currently learning Kotlin
+- ⚡ Fun fact: I love learning new things regarding programming and always looking to try new languages
+
 <!--
 **eman1986/eman1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
