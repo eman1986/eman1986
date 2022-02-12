@@ -2,8 +2,8 @@
 
 I'm a software developer in Grand Rapids, MI, I've been programming since 2001 when I was in high school and professionally since 2009. I first started with web design, then moved into web development and now I've moved into the mobile development space.
 
-- 🔭 I’m currently working on a mobile app project to expand my knowledge
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on Android development as well as making a platform for creators
+- 🌱 I’m currently learning Kotlin & Swift as I port my companies Xamarin app to a native app
 - ⚡ Fun fact: I love learning new things regarding programming and always looking to try new languages
 
 <!--
