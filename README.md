@@ -2,10 +2,12 @@
 
 I'm a software developer in Grand Rapids, MI, I've been programming since 2001 when I was in high school and professionally since 2009. I first started with web design, then moved into web development and now I've moved into the mobile development space.
 
-- 🔭 I’m currently working on Android & iOS development T my workplace
+- 🔭 I’m currently working on Android & iOS development at my workplace
 - 🌱 I’m currently learning Swift as I port my companies Xamarin app to a native app
 - ⚡ Fun fact #1: I love learning new things regarding programming and always looking to try new languages
 - ⚡ Fun fact #2: I like to watch anime, speficially slice of life ones
+
+I currently don't have any side projects going on, but looking to get to that soon.
 
 <!--
 **eman1986/eman1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
