@@ -7,7 +7,7 @@ I'm a software developer in Grand Rapids, MI, I've been programming since 2001 w
 - ⚡ Fun fact #1: I love learning new things regarding programming and always looking to try new languages
 - ⚡ Fun fact #2: I like to watch anime, speficially slice of life ones
 
-I currently don't have any side projects going on, but looking to get to that soon.
+I currently don't have any side projects going on, but looking to get back into one soon.
 
 <!--
 **eman1986/eman1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
