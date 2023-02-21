@@ -2,10 +2,10 @@
 
 I'm a software developer in Grand Rapids, MI, I've been programming since 2001 when I was in high school and professionally since 2009. I first started with web design, then moved into web development and now I've moved into the mobile development space.
 
-- 🔭 I’m currently working on Android & iOS development at my workplace
-- 🌱 I’m currently learning Swift as I port my companies Xamarin app to a native app
-- ⚡ Fun fact #1: I love learning new things regarding programming and always looking to try new languages
-- ⚡ Fun fact #2: I like to watch anime, speficially slice of life ones
+- 🔭 I’m currently working on Android & iOS development at my workplace.
+- 🌱 I’m currently learning Japanese since I've ran out of programming languages I wanted to learn (also I'm an otaku).
+- ⚡ Fun fact #1: I love learning new things regarding programming and always looking to try new languages.
+- ⚡ Fun fact #2: I like to watch anime, read manga, and collect figures of my favorite characters.
 
 I currently don't have any side projects going on, but looking to get back into one soon.
 
