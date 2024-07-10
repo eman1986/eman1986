@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I'm a software developer in Grand Rapids, MI, I've been programming since 2001 when I was in high school and professionally since 2009. I first started with web design, then moved into web development and now I've moved into the mobile development space.
+I'm a software developer from Grand Rapids, MI, I've been programming since 2001 when I was in high school and professionally since 2009. I first started with web design, then moved into web development and now I've moved into the mobile development space.
 
-- 🔭 I’m currently working on Android & iOS development at my workplace
-- 🌱 I’m currently learning Swift as I port my companies Xamarin app to a native app
-- ⚡ Fun fact #1: I love learning new things regarding programming and always looking to try new languages
-- ⚡ Fun fact #2: I like to watch anime, speficially slice of life ones
+- 🔭 I’m currently working on an API using Laravel and from time to time I help out with the mobile apps for my day job.
+- 🌱 I’m currently learning SwiftUI as my team is working towards swithing from UIKit.
+- 🌱 I’m currently learning Japanese, with the lofty goal of being able to read Japanese manga (and maybe one day visit Japan).
+- ⚡ Fun fact #1: I love learning new things regarding programming and always looking to try new languages.
+- ⚡ Fun fact #2: I'm an otaku who likes to watch anime and read manga. *Bonus Fact:* My favorite character is Tomoko Kuroki.
 
-I currently don't have any side projects going on, but looking to get back into one soon.
+I'm currently considering a couple ideas for side projects to work on, both sounds rather interesting, but I've yet decided which to do first, stay tuned.
 
 <!--
 **eman1986/eman1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
