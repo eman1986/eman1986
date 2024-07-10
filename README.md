@@ -9,7 +9,7 @@ I'm a software developer from Grand Rapids, MI, I've been programming since 2001
 - ⚡ Fun fact #2: I'm an otaku who likes to watch anime and read manga.
   - *Bonus Fact:* My favorite character is Tomoko Kuroki.
 
-I'm currently considering a couple ideas for side projects to work on, both sound rather interesting, but I've yet decided which to do first, stay tuned.
+I'm currently considering a couple ideas for side projects to work on, both sound rather interesting, but I've yet to decide which one I'll work on first, stay tuned.
 
 <!--
 **eman1986/eman1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
