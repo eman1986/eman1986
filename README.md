@@ -3,10 +3,11 @@
 I'm a software developer from Grand Rapids, MI, I've been programming since 2001 when I was in high school and professionally since 2009. I first started with web design, then moved into web development and now I've moved into the mobile development space.
 
 - 🔭 I’m currently working on an API using Laravel and from time to time I help out with the mobile apps for my day job.
-- 🌱 I’m currently learning SwiftUI as my team is working towards swithing from UIKit.
+- 🌱 I’m currently learning SwiftUI as my team is working towards switching from UIKit.
 - 🌱 I’m currently learning Japanese, with the lofty goal of being able to read Japanese manga (and maybe one day visit Japan).
 - ⚡ Fun fact #1: I love learning new things regarding programming and always looking to try new languages.
-- ⚡ Fun fact #2: I'm an otaku who likes to watch anime and read manga. *Bonus Fact:* My favorite character is Tomoko Kuroki.
+- ⚡ Fun fact #2: I'm an otaku who likes to watch anime and read manga.
+  - *Bonus Fact:* My favorite character is Tomoko Kuroki.
 
 I'm currently considering a couple ideas for side projects to work on, both sounds rather interesting, but I've yet decided which to do first, stay tuned.
 
